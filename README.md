@@ -1,7 +1,6 @@
 # GCP
 Here is a comprehensive list of Google Cloud Platform (GCP) CLI commands using `gcloud`, organized by their functionality. This list covers a variety of GCP services and operations.
 
-```markdown
 # Google Cloud CLI Commands
 
 ## General Commands
